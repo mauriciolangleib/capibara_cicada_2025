@@ -1,3 +1,5 @@
+![](imgs/capibara_banner.png)
+
 Github para el curso CAPIBARA, organizado por CICADA y Facultad de Ciencias. 1era edición (2025)
 
 # Motivación
